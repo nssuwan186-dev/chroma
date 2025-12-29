@@ -4,3 +4,4 @@ tqdm
 pypdf
 langchain_text_splitters
 sentence_transformers
+transformers>=5.0.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
