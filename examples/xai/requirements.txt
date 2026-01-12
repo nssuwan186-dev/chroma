@@ -4,3 +4,6 @@ tqdm
 pypdf
 langchain_text_splitters
 sentence_transformers
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
