@@ -49,7 +49,7 @@
   "devDependencies": {
     "@chroma-core/default-embed": "workspace:^",
     "@hey-api/client-fetch": "^0.10.0",
-    "@hey-api/openapi-ts": "^0.67.3",
+    "@hey-api/openapi-ts": "^0.97.3",
     "@jest/globals": "^29.7.0",
     "@jest/types": "^29.6.3",
     "@types/bcrypt": "^5.0.2",
